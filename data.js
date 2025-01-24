@@ -1,7 +1,5 @@
 const data = [
     {
-        "ID": 2,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ABDEEL",
         "Book": "GENESE",
@@ -11,8 +9,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 3,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ABEL",
         "Book": "GENESE",
@@ -22,8 +18,6 @@ const data = [
         "Complement": "FILHO DE ADÃO IRMÃO DE CAIM E PASTOR DE OVELHAS"
     },
     {
-        "ID": 4,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ABIDA",
         "Book": "GENESE",
@@ -33,8 +27,6 @@ const data = [
         "Complement": "FILHO DE MIDIAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 5,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ABIMAEL",
         "Book": "GENESE",
@@ -44,8 +36,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 6,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ABIMELECH",
         "Book": "GENESE",
@@ -55,8 +45,6 @@ const data = [
         "Complement": "REI DE GERAR"
     },
     {
-        "ID": 7,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ABRÃO/ABRAÃO",
         "Book": "GENESE",
@@ -66,8 +54,6 @@ const data = [
         "Complement": "FILHO DE TERA"
     },
     {
-        "ID": 8,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ACAN",
         "Book": "GENESE",
@@ -77,8 +63,6 @@ const data = [
         "Complement": "FILHO DE ESER NETO DE SEIR"
     },
     {
-        "ID": 9,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ACBOR",
         "Book": "GENESE",
@@ -88,8 +72,6 @@ const data = [
         "Complement": "PAI DO REI BAAL-ANAN"
     },
     {
-        "ID": 10,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ADA",
         "Book": "GENESE",
@@ -99,8 +81,6 @@ const data = [
         "Complement": "MULHER DE LAMECH"
     },
     {
-        "ID": 11,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ADAD",
         "Book": "GENESE",
@@ -110,8 +90,6 @@ const data = [
         "Complement": "FILHO DE BEDAD E REI DE EDOM"
     },
     {
-        "ID": 12,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ADÃO",
         "Book": "GENESE",
@@ -121,8 +99,6 @@ const data = [
         "Complement": "PRIMEIRO HOMEM"
     },
     {
-        "ID": 13,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ADAR",
         "Book": "GENESE",
@@ -132,8 +108,6 @@ const data = [
         "Complement": "REI DE EDOM"
     },
     {
-        "ID": 14,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ADORAM",
         "Book": "GENESE",
@@ -143,8 +117,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 15,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AGAR",
         "Book": "GENESE",
@@ -154,8 +126,6 @@ const data = [
         "Complement": "EGÍPCIA E SERVA DE SARAI"
     },
     {
-        "ID": 16,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AGI",
         "Book": "GENESE",
@@ -165,8 +135,6 @@ const data = [
         "Complement": "FILHO DE GAD E NET DE JACÓ"
     },
     {
-        "ID": 17,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AJA",
         "Book": "GENESE",
@@ -176,8 +144,6 @@ const data = [
         "Complement": "FILHO DE ZIBEON E NETO DE SEIR"
     },
     {
-        "ID": 18,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ALIOBAMA",
         "Book": "GENESE",
@@ -187,8 +153,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 19,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ALMODAD",
         "Book": "GENESE",
@@ -198,8 +162,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 20,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ALVA",
         "Book": "GENESE",
@@ -209,8 +171,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 21,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ALVAN",
         "Book": "GENESE",
@@ -220,8 +180,6 @@ const data = [
         "Complement": "FILHO DE SOBAL E NETO DE SEIR"
     },
     {
-        "ID": 22,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AMALEC",
         "Book": "GENESE",
@@ -231,8 +189,6 @@ const data = [
         "Complement": "FILHO DE ELIFAZ COM TIMNA"
     },
     {
-        "ID": 23,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AMRAFEL",
         "Book": "GENESE",
@@ -242,8 +198,6 @@ const data = [
         "Complement": "REI DE SINEAR"
     },
     {
-        "ID": 24,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ANA",
         "Book": "GENESE",
@@ -253,8 +207,6 @@ const data = [
         "Complement": "FILHO DE ZIBEON E NETO DE SEIR"
     },
     {
-        "ID": 25,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ANA",
         "Book": "GENESE",
@@ -264,8 +216,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 26,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ANA",
         "Book": "GENESE",
@@ -275,8 +225,6 @@ const data = [
         "Complement": "MÃE DE AOLIBAMA MULHER DE ESAÚ"
     },
     {
-        "ID": 27,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ANAMIM",
         "Book": "GENESE",
@@ -286,8 +234,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 28,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ANER",
         "Book": "GENESE",
@@ -297,8 +243,6 @@ const data = [
         "Complement": "CONFEDERADO DE ABRÃO"
     },
     {
-        "ID": 29,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AOLIBAMA",
         "Book": "GENESE",
@@ -308,8 +252,6 @@ const data = [
         "Complement": "MULHER DE ESAÚ FILHA DE ANA E ZIBEON, HEVEU."
     },
     {
-        "ID": 30,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARAM",
         "Book": "GENESE",
@@ -319,8 +261,6 @@ const data = [
         "Complement": "FILHO DE SEM E NETO DE NOÉ"
     },
     {
-        "ID": 31,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARAM",
         "Book": "GENESE",
@@ -330,8 +270,6 @@ const data = [
         "Complement": "FILHO DE KEMUEL E NETO DE NACOR"
     },
     {
-        "ID": 32,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARAN",
         "Book": "GENESE",
@@ -341,8 +279,6 @@ const data = [
         "Complement": "FILHO DE DISAN E NETO DE SEIR"
     },
     {
-        "ID": 33,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARD",
         "Book": "GENESE",
@@ -352,8 +288,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 34,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARELI",
         "Book": "GENESE",
@@ -363,8 +297,6 @@ const data = [
         "Complement": "FILHO DE GAD E NET DE JACÓ"
     },
     {
-        "ID": 35,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARFACHAD",
         "Book": "GENESE",
@@ -374,8 +306,6 @@ const data = [
         "Complement": "FILHO DE SEM E NETO DE NOÉ"
     },
     {
-        "ID": 36,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARIOCH",
         "Book": "GENESE",
@@ -385,8 +315,6 @@ const data = [
         "Complement": "REI DE ELASAR"
     },
     {
-        "ID": 37,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ARODI",
         "Book": "GENESE",
@@ -396,8 +324,6 @@ const data = [
         "Complement": "FILHO DE GAD E NET DE JACÓ"
     },
     {
-        "ID": 38,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ASBEL",
         "Book": "GENESE",
@@ -407,8 +333,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 39,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ASENATH",
         "Book": "GENESE",
@@ -418,8 +342,6 @@ const data = [
         "Complement": "ESPOSA DE JOSÉ E FILHA DE POTÍFERA"
     },
     {
-        "ID": 40,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ASER",
         "Book": "GENESE",
@@ -429,8 +351,6 @@ const data = [
         "Complement": "FILHO DE JACOB COM ZILPA SERVA DE LEA"
     },
     {
-        "ID": 41,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ASQUENAZ",
         "Book": "GENESE",
@@ -440,8 +360,6 @@ const data = [
         "Complement": "FILHO DE GOMER, NETO DE JEFETH E BISNETO DE NOÉ"
     },
     {
-        "ID": 42,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ASSUR",
         "Book": "GENESE",
@@ -451,8 +369,6 @@ const data = [
         "Complement": "FILHO DE SEM E NETO DE NOÉ"
     },
     {
-        "ID": 43,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "ASSURIM",
         "Book": "GENESE",
@@ -462,8 +378,6 @@ const data = [
         "Complement": "FILHO DE DEDAN, NETO DE JOCSAN E BISNETO DE ABRAÃO"
     },
     {
-        "ID": 44,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AUZATH",
         "Book": "GENESE",
@@ -473,8 +387,6 @@ const data = [
         "Complement": "AMIGO DE ABIMELECH"
     },
     {
-        "ID": 45,
-        "Index": NaN,
         "Alphabetical_Order": "A",
         "Name": "AZARMAVETH",
         "Book": "GENESE",
@@ -484,8 +396,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 46,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BAAL-ANAN",
         "Book": "GENESE",
@@ -495,8 +405,6 @@ const data = [
         "Complement": "FILHO DE ACBOR E REI DE EDOM"
     },
     {
-        "ID": 47,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BASMATH",
         "Book": "GENESE",
@@ -506,8 +414,6 @@ const data = [
         "Complement": "MULHER D ESAÚ E FILHA DE ELON HETEU."
     },
     {
-        "ID": 48,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BECHER",
         "Book": "GENESE",
@@ -517,8 +423,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 49,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BECHER",
         "Book": "GENESE",
@@ -528,8 +432,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 50,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BELA",
         "Book": "GENESE",
@@ -539,8 +441,6 @@ const data = [
         "Complement": "REI DE ZOAR"
     },
     {
-        "ID": 51,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BELA",
         "Book": "GENESE",
@@ -550,8 +450,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 52,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BELA",
         "Book": "GENESE",
@@ -561,8 +459,6 @@ const data = [
         "Complement": "FILHO DE BEOR REI DE EDON"
     },
     {
-        "ID": 53,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BENAMI",
         "Book": "GENESE",
@@ -572,8 +468,6 @@ const data = [
         "Complement": "FILHO DE LOTH COM SUA FILHA MAIS NOVA, DELE SURGIU OS FILHOS DE AMON"
     },
     {
-        "ID": 54,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BENJAMIM/BENONI",
         "Book": "GENESE",
@@ -583,8 +477,6 @@ const data = [
         "Complement": "FILHO MAIS NOVO DE JACOB COM RAQUEL"
     },
     {
-        "ID": 55,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BEOR",
         "Book": "GENESE",
@@ -594,8 +486,6 @@ const data = [
         "Complement": "PAI DO REI BELA"
     },
     {
-        "ID": 56,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BERA",
         "Book": "GENESE",
@@ -605,8 +495,6 @@ const data = [
         "Complement": "REI DE SODOMA"
     },
     {
-        "ID": 57,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BERIA",
         "Book": "GENESE",
@@ -616,8 +504,6 @@ const data = [
         "Complement": "FILHO DE ASER E NETO DE JACÓ"
     },
     {
-        "ID": 58,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BETUEL",
         "Book": "GENESE",
@@ -627,8 +513,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 59,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BILHA",
         "Book": "GENESE",
@@ -638,8 +522,6 @@ const data = [
         "Complement": "SERVA DE RAQUEL"
     },
     {
-        "ID": 60,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BILHAN",
         "Book": "GENESE",
@@ -649,8 +531,6 @@ const data = [
         "Complement": "FILHO DE ESER NETO DE SEIR"
     },
     {
-        "ID": 61,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BIRSHA",
         "Book": "GENESE",
@@ -660,8 +540,6 @@ const data = [
         "Complement": "REI DE GOMORRA"
     },
     {
-        "ID": 62,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BOZRA",
         "Book": "GENESE",
@@ -671,8 +549,6 @@ const data = [
         "Complement": "PAI DO REI JOBABE"
     },
     {
-        "ID": 63,
-        "Index": NaN,
         "Alphabetical_Order": "B",
         "Name": "BUZ",
         "Book": "GENESE",
@@ -682,8 +558,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 64,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CAFTORIM",
         "Book": "GENESE",
@@ -693,8 +567,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 65,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CAÍM",
         "Book": "GENESE",
@@ -704,8 +576,6 @@ const data = [
         "Complement": "PRIMOGENITO DE ADÃO E LAVRADOR DE TERRA"
     },
     {
-        "ID": 66,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CAINAM",
         "Book": "GENESE",
@@ -715,8 +585,6 @@ const data = [
         "Complement": "PRIMOGENITO DE ENOS E BISNETO DE ADÃO"
     },
     {
-        "ID": 67,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CAM",
         "Book": "GENESE",
@@ -726,8 +594,6 @@ const data = [
         "Complement": "FILHO DE NOÉ"
     },
     {
-        "ID": 68,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CANAÃ",
         "Book": "GENESE",
@@ -737,8 +603,6 @@ const data = [
         "Complement": "PRIMOGENITO DE CAM E NETO DE NOÉ"
     },
     {
-        "ID": 69,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CARMI",
         "Book": "GENESE",
@@ -748,8 +612,6 @@ const data = [
         "Complement": "FILHO DE RUBEN E NETO DE JACÓ"
     },
     {
-        "ID": 70,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CASIUSHIM",
         "Book": "GENESE",
@@ -759,8 +621,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 71,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CHEDORLAOMER",
         "Book": "GENESE",
@@ -770,8 +630,6 @@ const data = [
         "Complement": "REI DE ELAM"
     },
     {
-        "ID": 72,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CHERAN",
         "Book": "GENESE",
@@ -781,8 +639,6 @@ const data = [
         "Complement": "FILHO DE DISON, NETO DE ANA E BISNETO DE SEIR"
     },
     {
-        "ID": 73,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CHESED",
         "Book": "GENESE",
@@ -792,8 +648,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 74,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "COATH",
         "Book": "GENESE",
@@ -803,8 +657,6 @@ const data = [
         "Complement": "FILHO DE LEVI E NETO DE JACÓ"
     },
     {
-        "ID": 75,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CORA",
         "Book": "GENESE",
@@ -814,8 +666,6 @@ const data = [
         "Complement": "FILHO DE ESAÚ COM AOLIBAMA"
     },
     {
-        "ID": 76,
-        "Index": NaN,
         "Alphabetical_Order": "C",
         "Name": "CUSH",
         "Book": "GENESE",
@@ -825,8 +675,6 @@ const data = [
         "Complement": "FILHO DE CAM E NETO DE NOÉ"
     },
     {
-        "ID": 77,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DAN",
         "Book": "GENESE",
@@ -836,8 +684,6 @@ const data = [
         "Complement": "FILHO DE JOCOB COM BILHA SERVA DE RAQUEL"
     },
     {
-        "ID": 78,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DÉBORA",
         "Book": "GENESE",
@@ -847,8 +693,6 @@ const data = [
         "Complement": "MÃE DE REBECA"
     },
     {
-        "ID": 79,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DEDAN",
         "Book": "GENESE",
@@ -858,8 +702,6 @@ const data = [
         "Complement": "FILHO DE RAAMA, NETO DE CUSH, BISNETO DE CAM E TATARANETO DE NOÉ"
     },
     {
-        "ID": 80,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DEDAN",
         "Book": "GENESE",
@@ -869,8 +711,6 @@ const data = [
         "Complement": "FILHO DE JOCSAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 81,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DEUS",
         "Book": "GENESE",
@@ -880,8 +720,6 @@ const data = [
         "Complement": "O CRIADOR"
     },
     {
-        "ID": 82,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DICLA",
         "Book": "GENESE",
@@ -891,8 +729,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 83,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DINA",
         "Book": "GENESE",
@@ -902,8 +738,6 @@ const data = [
         "Complement": "FILHA DE JACOB COM LEA"
     },
     {
-        "ID": 84,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DISAN",
         "Book": "GENESE",
@@ -913,8 +747,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 85,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DISON",
         "Book": "GENESE",
@@ -924,8 +756,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 86,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DISON",
         "Book": "GENESE",
@@ -935,8 +765,6 @@ const data = [
         "Complement": "FILHO DE ANA E NETO DE SEIR"
     },
     {
-        "ID": 87,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DODANIM",
         "Book": "GENESE",
@@ -946,8 +774,6 @@ const data = [
         "Complement": "FILHO DE JAVAN, NETO DE JEFETHE E BISNETO DE NOÉ"
     },
     {
-        "ID": 88,
-        "Index": NaN,
         "Alphabetical_Order": "D",
         "Name": "DUMA",
         "Book": "GENESE",
@@ -957,8 +783,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 89,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EBAL",
         "Book": "GENESE",
@@ -968,8 +792,6 @@ const data = [
         "Complement": "FILHO DE SOBAL E NETO DE SEIR"
     },
     {
-        "ID": 90,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EBER",
         "Book": "GENESE",
@@ -979,8 +801,6 @@ const data = [
         "Complement": "FILHO DE ARFACHAD, NETO DE SEM E BISNETO DE NOÉ"
     },
     {
-        "ID": 91,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ECHI",
         "Book": "GENESE",
@@ -990,8 +810,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 92,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EFA",
         "Book": "GENESE",
@@ -1001,8 +819,6 @@ const data = [
         "Complement": "FILHO DE MIDIAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 93,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EFER",
         "Book": "GENESE",
@@ -1012,8 +828,6 @@ const data = [
         "Complement": "FILHO DE MIDIAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 94,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EFRAIM",
         "Book": "GENESE",
@@ -1023,8 +837,6 @@ const data = [
         "Complement": "FILHO DE JOSÉ"
     },
     {
-        "ID": 95,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EFRON",
         "Book": "GENESE",
@@ -1034,8 +846,6 @@ const data = [
         "Complement": "FILHO DE HETH"
     },
     {
-        "ID": 96,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELÁ",
         "Book": "GENESE",
@@ -1045,8 +855,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 97,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELAM",
         "Book": "GENESE",
@@ -1056,8 +864,6 @@ const data = [
         "Complement": "FILHO DE SEM E NETO DE NOÉ"
     },
     {
-        "ID": 98,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELDA",
         "Book": "GENESE",
@@ -1067,8 +873,6 @@ const data = [
         "Complement": "FILHO DE MIDIAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 99,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELIESER",
         "Book": "GENESE",
@@ -1078,8 +882,6 @@ const data = [
         "Complement": "MORDOMO DE ABRÃO"
     },
     {
-        "ID": 100,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELIFAZ",
         "Book": "GENESE",
@@ -1089,8 +891,6 @@ const data = [
         "Complement": "FILHO DE ESAÚ COM ADA"
     },
     {
-        "ID": 101,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELISA",
         "Book": "GENESE",
@@ -1100,8 +900,6 @@ const data = [
         "Complement": "FILHO DE JAVAN, NETO DE JEFETHE E BISNETO DE NOÉ"
     },
     {
-        "ID": 102,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ELON",
         "Book": "GENESE",
@@ -1111,8 +909,6 @@ const data = [
         "Complement": "FILHO DE ZEBULON E NETO DE JACÓ"
     },
     {
-        "ID": 103,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ENOS",
         "Book": "GENESE",
@@ -1122,8 +918,6 @@ const data = [
         "Complement": "PRIMOGENITO DE SETH E NETO DE ADÃO"
     },
     {
-        "ID": 104,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ER",
         "Book": "GENESE",
@@ -1133,8 +927,6 @@ const data = [
         "Complement": "PRIMOGENITO DE JUDÁ COM SUA"
     },
     {
-        "ID": 105,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ESAÚ",
         "Book": "GENESE",
@@ -1144,8 +936,6 @@ const data = [
         "Complement": "O PRIOGENITO DE ISAAC E IRMÃO GEMIO DE JACOB"
     },
     {
-        "ID": 106,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ESBAN",
         "Book": "GENESE",
@@ -1155,8 +945,6 @@ const data = [
         "Complement": "FILHO DE DISON, NETO DE ANA E BISNETO DE SEIR"
     },
     {
-        "ID": 107,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ESCOL",
         "Book": "GENESE",
@@ -1166,8 +954,6 @@ const data = [
         "Complement": "CONFEDERADO DE ABRÃO"
     },
     {
-        "ID": 108,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ESER",
         "Book": "GENESE",
@@ -1177,8 +963,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 109,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "ÉVA",
         "Book": "GENESE",
@@ -1188,8 +972,6 @@ const data = [
         "Complement": "PRIMEIRA MULHER"
     },
     {
-        "ID": 110,
-        "Index": NaN,
         "Alphabetical_Order": "E",
         "Name": "EZBON",
         "Book": "GENESE",
@@ -1199,8 +981,6 @@ const data = [
         "Complement": "FILHO DE GAD E NET DE JACÓ"
     },
     {
-        "ID": 111,
-        "Index": NaN,
         "Alphabetical_Order": "F",
         "Name": "FICOL",
         "Book": "GENESE",
@@ -1210,8 +990,6 @@ const data = [
         "Complement": "PRÍNCIPE DO EXÉRCITO DE DO REI ABIMELECH"
     },
     {
-        "ID": 112,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GAAM",
         "Book": "GENESE",
@@ -1221,8 +999,6 @@ const data = [
         "Complement": "FILHO DE NACOR COM SUA CONCUBINA REUMA"
     },
     {
-        "ID": 113,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GAD",
         "Book": "GENESE",
@@ -1232,8 +1008,6 @@ const data = [
         "Complement": "FILHO DE JACOB COM ZILPA SERVA DE LEA"
     },
     {
-        "ID": 114,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GAETAM",
         "Book": "GENESE",
@@ -1243,8 +1017,6 @@ const data = [
         "Complement": "FILHO DE ELIFAZ"
     },
     {
-        "ID": 115,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GERA",
         "Book": "GENESE",
@@ -1254,8 +1026,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 116,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GERSON",
         "Book": "GENESE",
@@ -1265,8 +1035,6 @@ const data = [
         "Complement": "FILHO DE LEVI E NETO DE JACÓ"
     },
     {
-        "ID": 117,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GETER",
         "Book": "GENESE",
@@ -1276,8 +1044,6 @@ const data = [
         "Complement": "FILHO DE ARAM, NETO DE SEM E BISNETO DE NOÉ"
     },
     {
-        "ID": 118,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GOMER",
         "Book": "GENESE",
@@ -1287,8 +1053,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 119,
-        "Index": NaN,
         "Alphabetical_Order": "G",
         "Name": "GUNI",
         "Book": "GENESE",
@@ -1298,8 +1062,6 @@ const data = [
         "Complement": "FILHO DE NAFTALI E NETO DE JACÓ"
     },
     {
-        "ID": 120,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HADA",
         "Book": "GENESE",
@@ -1309,8 +1071,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 121,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HAMUL",
         "Book": "GENESE",
@@ -1320,8 +1080,6 @@ const data = [
         "Complement": "FILHO DE PEREZ, NETO DE JUDÁ E BISNETO DE JACÓ"
     },
     {
-        "ID": 122,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HANOCH",
         "Book": "GENESE",
@@ -1331,8 +1089,6 @@ const data = [
         "Complement": "FILHO DE RUBEN E NETO DE JACÓ"
     },
     {
-        "ID": 123,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HARAN",
         "Book": "GENESE",
@@ -1342,8 +1098,6 @@ const data = [
         "Complement": "FILHO DE TERA"
     },
     {
-        "ID": 124,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HAVILÁ",
         "Book": "GENESE",
@@ -1353,8 +1107,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 125,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HAVILA",
         "Book": "GENESE",
@@ -1364,8 +1116,6 @@ const data = [
         "Complement": "FILHO DE CUSH, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 126,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HAZO",
         "Book": "GENESE",
@@ -1375,8 +1125,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 127,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HEBER",
         "Book": "GENESE",
@@ -1386,8 +1134,6 @@ const data = [
         "Complement": "FILHO DE BERIA, NETO DE ASER E BISNETO DE JACÓ"
     },
     {
-        "ID": 128,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HEMAM",
         "Book": "GENESE",
@@ -1397,8 +1143,6 @@ const data = [
         "Complement": "FILHO DE LOTAN E NETO DE SEIR"
     },
     {
-        "ID": 129,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HEMDAM",
         "Book": "GENESE",
@@ -1408,8 +1152,6 @@ const data = [
         "Complement": "FILHO DE DISON, NETO DE ANA E BISNETO DE SEIR"
     },
     {
-        "ID": 130,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HEMOR",
         "Book": "GENESE",
@@ -1419,8 +1161,6 @@ const data = [
         "Complement": "PAI DE SIQUÉM O PRINCIPE"
     },
     {
-        "ID": 131,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HENOCH",
         "Book": "GENESE",
@@ -1430,8 +1170,6 @@ const data = [
         "Complement": "PRIMOGENITO DE CAIM"
     },
     {
-        "ID": 132,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HENOCH",
         "Book": "GENESE",
@@ -1441,8 +1179,6 @@ const data = [
         "Complement": "PRIMOGENITO DE JARED"
     },
     {
-        "ID": 133,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HENOCH",
         "Book": "GENESE",
@@ -1452,8 +1188,6 @@ const data = [
         "Complement": "FILHO DE MIDIAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 134,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HETH",
         "Book": "GENESE",
@@ -1463,8 +1197,6 @@ const data = [
         "Complement": "FILHO DE CANAÃ, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 135,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HEZRON",
         "Book": "GENESE",
@@ -1474,8 +1206,6 @@ const data = [
         "Complement": "FILHO DE RUBEN E NETO DE JACÓ"
     },
     {
-        "ID": 136,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HEZRON",
         "Book": "GENESE",
@@ -1485,8 +1215,6 @@ const data = [
         "Complement": "FILHO DE PEREZ, NETO DE JUDÁ E BISNETO DE JACÓ"
     },
     {
-        "ID": 137,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HIRA",
         "Book": "GENESE",
@@ -1496,8 +1224,6 @@ const data = [
         "Complement": "HOMEM DE ADULAM"
     },
     {
-        "ID": 138,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HORI",
         "Book": "GENESE",
@@ -1507,8 +1233,6 @@ const data = [
         "Complement": "FILHO DE LOTAN E NETO DE SEIR"
     },
     {
-        "ID": 139,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HUPIM",
         "Book": "GENESE",
@@ -1518,8 +1242,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 140,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HUSÃO",
         "Book": "GENESE",
@@ -1529,8 +1251,6 @@ const data = [
         "Complement": "DA TERRA DOS TEMATITAS E REI DE EDOM"
     },
     {
-        "ID": 141,
-        "Index": NaN,
         "Alphabetical_Order": "H",
         "Name": "HUSIM",
         "Book": "GENESE",
@@ -1540,8 +1260,6 @@ const data = [
         "Complement": "FILHO DE DAN E NETO DE JACÓ"
     },
     {
-        "ID": 142,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "IMNA",
         "Book": "GENESE",
@@ -1551,8 +1269,6 @@ const data = [
         "Complement": "FILHO DE ASER E NETO DE JACÓ"
     },
     {
-        "ID": 143,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "IRAD",
         "Book": "GENESE",
@@ -1562,8 +1278,6 @@ const data = [
         "Complement": "PRIMOGENITO DE HENOCH E NETO DE CAIM"
     },
     {
-        "ID": 144,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "IRAM",
         "Book": "GENESE",
@@ -1573,8 +1287,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 145,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ISAAC",
         "Book": "GENESE",
@@ -1584,8 +1296,6 @@ const data = [
         "Complement": "FILHO DE ABRÃO COM SARAI"
     },
     {
-        "ID": 146,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ISCAH",
         "Book": "GENESE",
@@ -1595,8 +1305,6 @@ const data = [
         "Complement": "FILHA DE HARAN"
     },
     {
-        "ID": 147,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ISCHVA",
         "Book": "GENESE",
@@ -1606,8 +1314,6 @@ const data = [
         "Complement": "FILHO DE ASER E NETO DE JACÓ"
     },
     {
-        "ID": 148,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ISCHVI",
         "Book": "GENESE",
@@ -1617,8 +1323,6 @@ const data = [
         "Complement": "FILHO DE ASER E NETO DE JACÓ"
     },
     {
-        "ID": 149,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ISMAEL",
         "Book": "GENESE",
@@ -1628,8 +1332,6 @@ const data = [
         "Complement": "FILHO DE ABRÃO COM AGAR A EGÍPCIA"
     },
     {
-        "ID": 150,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ISSACAR",
         "Book": "GENESE",
@@ -1639,8 +1341,6 @@ const data = [
         "Complement": "FIHO DE JACOB COM LEA"
     },
     {
-        "ID": 151,
-        "Index": NaN,
         "Alphabetical_Order": "I",
         "Name": "ITRAN",
         "Book": "GENESE",
@@ -1650,8 +1350,6 @@ const data = [
         "Complement": "FILHO DE DISON, NETO DE ANA E BISNETO DE SEIR"
     },
     {
-        "ID": 152,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JAALAM",
         "Book": "GENESE",
@@ -1661,8 +1359,6 @@ const data = [
         "Complement": "FILHO DE ESAÚ COM AOLIBAMA"
     },
     {
-        "ID": 153,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JABAL",
         "Book": "GENESE",
@@ -1672,8 +1368,6 @@ const data = [
         "Complement": "FILHO DE LAMECH COM ADA; ESTE FOI O PAI DOS QUE ABITAM EM TENDAS E TEM GADO"
     },
     {
-        "ID": 154,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JACOB",
         "Book": "GENESE",
@@ -1683,8 +1377,6 @@ const data = [
         "Complement": "FILHO DE ISAAC E IRMÃO GEMIO DE ESAÚ"
     },
     {
-        "ID": 155,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JAFETH",
         "Book": "GENESE",
@@ -1694,8 +1386,6 @@ const data = [
         "Complement": "FILHO DE NOÉ"
     },
     {
-        "ID": 156,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JÁLEEL",
         "Book": "GENESE",
@@ -1705,8 +1395,6 @@ const data = [
         "Complement": "FILHO DE ZEBULON E NETO DE JACÓ"
     },
     {
-        "ID": 157,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JAMIM",
         "Book": "GENESE",
@@ -1716,8 +1404,6 @@ const data = [
         "Complement": "FILHO DE SIMEÃO E NETO DE JACÓ"
     },
     {
-        "ID": 158,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JAQUIM",
         "Book": "GENESE",
@@ -1727,8 +1413,6 @@ const data = [
         "Complement": "FILHO DE SIMEÃO E NETO DE JACÓ"
     },
     {
-        "ID": 159,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JARED",
         "Book": "GENESE",
@@ -1738,8 +1422,6 @@ const data = [
         "Complement": "PRIMOGENITO DE MAALALEL"
     },
     {
-        "ID": 160,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JAVAN",
         "Book": "GENESE",
@@ -1749,8 +1431,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 161,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JÁZEEL",
         "Book": "GENESE",
@@ -1760,8 +1440,6 @@ const data = [
         "Complement": "FILHO DE NAFTALI E NETO DE JACÓ"
     },
     {
-        "ID": 162,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JEMUEL",
         "Book": "GENESE",
@@ -1771,8 +1449,6 @@ const data = [
         "Complement": "FILHO DE SIMEÃO E NETO DE JACÓ"
     },
     {
-        "ID": 163,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JEOVÁ",
         "Book": "GENESE",
@@ -1782,8 +1458,6 @@ const data = [
         "Complement": "O CRIADOR"
     },
     {
-        "ID": 164,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JERA",
         "Book": "GENESE",
@@ -1793,8 +1467,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 165,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JETETH",
         "Book": "GENESE",
@@ -1804,8 +1476,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 166,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JETUR",
         "Book": "GENESE",
@@ -1815,8 +1485,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 167,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JEUS",
         "Book": "GENESE",
@@ -1826,8 +1494,6 @@ const data = [
         "Complement": "FILHO DE ESAÚ COM AOLIBAMA"
     },
     {
-        "ID": 168,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JEZER",
         "Book": "GENESE",
@@ -1837,8 +1503,6 @@ const data = [
         "Complement": "FILHO DE NAFTALI E NETO DE JACÓ"
     },
     {
-        "ID": 169,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JIDLAF",
         "Book": "GENESE",
@@ -1848,8 +1512,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 170,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JÓ",
         "Book": "GENESE",
@@ -1859,8 +1521,6 @@ const data = [
         "Complement": "FILHO DE ISSACAR E NETO DE JACÓ"
     },
     {
-        "ID": 171,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JOBABE",
         "Book": "GENESE",
@@ -1870,8 +1530,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 172,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JOBABE",
         "Book": "GENESE",
@@ -1881,8 +1539,6 @@ const data = [
         "Complement": "FILHO DE ZERÁ COM BOZRA REI DE EDOM"
     },
     {
-        "ID": 173,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JOCSAN",
         "Book": "GENESE",
@@ -1892,8 +1548,6 @@ const data = [
         "Complement": "FILHO DE ABRAÃO COM KETURA"
     },
     {
-        "ID": 174,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JOCTAN",
         "Book": "GENESE",
@@ -1903,8 +1557,6 @@ const data = [
         "Complement": "FILHO DE EBER, NETO D ARFACHAD, BISNETO DE SEM E TATARANETO DE NOÉ"
     },
     {
-        "ID": 175,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JOSÉ",
         "Book": "GENESE",
@@ -1914,8 +1566,6 @@ const data = [
         "Complement": "FILHO DE JACOB COM RAQUEL"
     },
     {
-        "ID": 176,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JUBAL",
         "Book": "GENESE",
@@ -1925,8 +1575,6 @@ const data = [
         "Complement": "FILHO DE LAMECH COM ADA; ESTE FOI O PAI DOS QUE TOCAM HARPA E ÓRGÃO"
     },
     {
-        "ID": 177,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JUDÁ",
         "Book": "GENESE",
@@ -1936,8 +1584,6 @@ const data = [
         "Complement": "FILHO DE JACOB COM LEA"
     },
     {
-        "ID": 178,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JUDITE",
         "Book": "GENESE",
@@ -1947,8 +1593,6 @@ const data = [
         "Complement": "MULHER DE ESAÚ FILHA DE BEERI, HETEU."
     },
     {
-        "ID": 179,
-        "Index": NaN,
         "Alphabetical_Order": "J",
         "Name": "JUISBAC",
         "Book": "GENESE",
@@ -1958,8 +1602,6 @@ const data = [
         "Complement": "FILHO DE ABRAÃO COM KETURA"
     },
     {
-        "ID": 180,
-        "Index": NaN,
         "Alphabetical_Order": "K",
         "Name": "KEMUEL",
         "Book": "GENESE",
@@ -1969,8 +1611,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 181,
-        "Index": NaN,
         "Alphabetical_Order": "K",
         "Name": "KETURA",
         "Book": "GENESE",
@@ -1980,8 +1620,6 @@ const data = [
         "Complement": "SEGUNDA MULHER DE ABRAÃO"
     },
     {
-        "ID": 182,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LABÃO",
         "Book": "GENESE",
@@ -1991,8 +1629,6 @@ const data = [
         "Complement": "FILHO DE BETUEL E IRMÃO DE REBECA"
     },
     {
-        "ID": 183,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LAMECH",
         "Book": "GENESE",
@@ -2002,8 +1638,6 @@ const data = [
         "Complement": "FPRIMOGENITO DE METUSAEL"
     },
     {
-        "ID": 184,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LAMECH",
         "Book": "GENESE",
@@ -2013,8 +1647,6 @@ const data = [
         "Complement": "PRIMGENITO DE METUSALA"
     },
     {
-        "ID": 185,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LEABIM",
         "Book": "GENESE",
@@ -2024,8 +1656,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 186,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LEABIM",
         "Book": "GENESE",
@@ -2035,8 +1665,6 @@ const data = [
         "Complement": "FILHA MAIS VELHA DE LABÃO"
     },
     {
-        "ID": 187,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LETUSIM",
         "Book": "GENESE",
@@ -2046,8 +1674,6 @@ const data = [
         "Complement": "FILHO DE DEDAN, NETO DE JOCSAN E BISNETO DE ABRAÃO"
     },
     {
-        "ID": 188,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LEUMIM",
         "Book": "GENESE",
@@ -2057,8 +1683,6 @@ const data = [
         "Complement": "FILHO DE DEDAN, NETO DE JOCSAN E BISNETO DE ABRAÃO"
     },
     {
-        "ID": 189,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LEVI",
         "Book": "GENESE",
@@ -2068,8 +1692,6 @@ const data = [
         "Complement": "FILHO DE JOCOB COM LEA"
     },
     {
-        "ID": 190,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LOTAN",
         "Book": "GENESE",
@@ -2079,8 +1701,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 191,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LOTH",
         "Book": "GENESE",
@@ -2090,8 +1710,6 @@ const data = [
         "Complement": "FILHO DE HARAN E NETO DE TERA"
     },
     {
-        "ID": 192,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LUDIM",
         "Book": "GENESE",
@@ -2101,8 +1719,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 193,
-        "Index": NaN,
         "Alphabetical_Order": "L",
         "Name": "LUDIM",
         "Book": "GENESE",
@@ -2112,8 +1728,6 @@ const data = [
         "Complement": "FILHO DE SEM E NETO DE NOÉ"
     },
     {
-        "ID": 194,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAACA",
         "Book": "GENESE",
@@ -2123,8 +1737,6 @@ const data = [
         "Complement": "FILHO DE NACOR COM SUA CONCUBINA REUMA"
     },
     {
-        "ID": 195,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAALALEL",
         "Book": "GENESE",
@@ -2134,8 +1746,6 @@ const data = [
         "Complement": "PRIMOGENITO DE CAINAM E TATARANETO DE ADÃO"
     },
     {
-        "ID": 196,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAALATH",
         "Book": "GENESE",
@@ -2145,8 +1755,6 @@ const data = [
         "Complement": "MULHER DE ESAÚ FILHA DE ISMAEL, FILH DE ABRAÃO"
     },
     {
-        "ID": 197,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MADAI",
         "Book": "GENESE",
@@ -2156,8 +1764,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 198,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAGDIEL",
         "Book": "GENESE",
@@ -2167,8 +1773,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 199,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAGOG",
         "Book": "GENESE",
@@ -2178,8 +1782,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 200,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MALQUIEL",
         "Book": "GENESE",
@@ -2189,8 +1791,6 @@ const data = [
         "Complement": "FILHO DE BERIA, NETO DE ASER E BISNETO DE JACÓ"
     },
     {
-        "ID": 201,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAMRE",
         "Book": "GENESE",
@@ -2200,8 +1800,6 @@ const data = [
         "Complement": "LUTOU AO LADO DE ABRÃO NO VALE DE SIDIM"
     },
     {
-        "ID": 202,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MANAATH",
         "Book": "GENESE",
@@ -2211,8 +1809,6 @@ const data = [
         "Complement": "FILHO DE SOBAL E NETO DE SEIR"
     },
     {
-        "ID": 203,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MANASSÉS",
         "Book": "GENESE",
@@ -2222,8 +1818,6 @@ const data = [
         "Complement": "PRIMOGÉNITO DE JOSÉ"
     },
     {
-        "ID": 204,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MAS",
         "Book": "GENESE",
@@ -2233,8 +1827,6 @@ const data = [
         "Complement": "FILHO DE ARAM, NETO DE SEM E BISNETO DE NOÉ"
     },
     {
-        "ID": 205,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MASSA",
         "Book": "GENESE",
@@ -2244,8 +1836,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 206,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MATRED",
         "Book": "GENESE",
@@ -2255,8 +1845,6 @@ const data = [
         "Complement": "MÃE DE MEETABEL"
     },
     {
-        "ID": 207,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MEDAN",
         "Book": "GENESE",
@@ -2266,8 +1854,6 @@ const data = [
         "Complement": "FILHO DE ABRAÃO COM KETURA"
     },
     {
-        "ID": 208,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MEETABEL",
         "Book": "GENESE",
@@ -2277,8 +1863,6 @@ const data = [
         "Complement": "FILHA DE MATRED E MEZAAB, E MULHER DO REI ADAR"
     },
     {
-        "ID": 209,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MELQUISEDEC",
         "Book": "GENESE",
@@ -2288,8 +1872,6 @@ const data = [
         "Complement": "SACERDOTE DO DEUS ALTÍSSIMO"
     },
     {
-        "ID": 210,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MERARI",
         "Book": "GENESE",
@@ -2299,8 +1881,6 @@ const data = [
         "Complement": "FILHO DE LEVI E NETO DE JACÓ"
     },
     {
-        "ID": 211,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MESECH",
         "Book": "GENESE",
@@ -2310,8 +1890,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 212,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "METUSAEL",
         "Book": "GENESE",
@@ -2321,8 +1899,6 @@ const data = [
         "Complement": "PRIMOGENITO DE MEUJAEL E TATARANETO DE CAIM"
     },
     {
-        "ID": 213,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "METUSALA",
         "Book": "GENESE",
@@ -2332,8 +1908,6 @@ const data = [
         "Complement": "PRIMOGENITO DE HENOCH"
     },
     {
-        "ID": 214,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MEUJAEL",
         "Book": "GENESE",
@@ -2343,8 +1917,6 @@ const data = [
         "Complement": "PRIMGENITO DE IRAD E BISNETO DE CAIM"
     },
     {
-        "ID": 215,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MEZAAB",
         "Book": "GENESE",
@@ -2354,8 +1926,6 @@ const data = [
         "Complement": "PAI DE MEETABEL"
     },
     {
-        "ID": 216,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MIBSAM",
         "Book": "GENESE",
@@ -2365,8 +1935,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 217,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MIBZAR",
         "Book": "GENESE",
@@ -2376,8 +1944,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 218,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MIDIAN",
         "Book": "GENESE",
@@ -2387,8 +1953,6 @@ const data = [
         "Complement": "FILHO DE ABRAÃO COM KETURA"
     },
     {
-        "ID": 219,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MILCA",
         "Book": "GENESE",
@@ -2398,8 +1962,6 @@ const data = [
         "Complement": "FILHA DE HARAN E MULHER DE NACOR"
     },
     {
-        "ID": 220,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MISMA",
         "Book": "GENESE",
@@ -2409,8 +1971,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 221,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MIZA",
         "Book": "GENESE",
@@ -2420,8 +1980,6 @@ const data = [
         "Complement": "FILHO DE REUEL"
     },
     {
-        "ID": 222,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MIZRAIM",
         "Book": "GENESE",
@@ -2431,8 +1989,6 @@ const data = [
         "Complement": "FILHO DE CAM E NETO DE NOÉ"
     },
     {
-        "ID": 223,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MOAB",
         "Book": "GENESE",
@@ -2442,8 +1998,6 @@ const data = [
         "Complement": "FILHO DE LOTH COM SUA FILHA MAIS VELHA, E DELE SURGIU OD MOABITAS"
     },
     {
-        "ID": 224,
-        "Index": NaN,
         "Alphabetical_Order": "M",
         "Name": "MUPIM",
         "Book": "GENESE",
@@ -2453,8 +2007,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 225,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NAAMA",
         "Book": "GENESE",
@@ -2464,8 +2016,6 @@ const data = [
         "Complement": "FILHA DE LAMECH CM ZILA IRMÃ DE TUBALCAIM"
     },
     {
-        "ID": 226,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NAAMAN",
         "Book": "GENESE",
@@ -2475,8 +2025,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 227,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NAATH",
         "Book": "GENESE",
@@ -2486,8 +2034,6 @@ const data = [
         "Complement": "FILHO DE REUEL"
     },
     {
-        "ID": 228,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NACOR",
         "Book": "GENESE",
@@ -2497,8 +2043,6 @@ const data = [
         "Complement": "FILHO DE SERUG, NETO DE REÚ, BISNETO DE PELEG, TATARANETO DE EBER"
     },
     {
-        "ID": 229,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NACOR",
         "Book": "GENESE",
@@ -2508,8 +2052,6 @@ const data = [
         "Complement": "FILHO DE TERA"
     },
     {
-        "ID": 230,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NAFIS",
         "Book": "GENESE",
@@ -2519,8 +2061,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 231,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NAFTALI",
         "Book": "GENESE",
@@ -2530,8 +2070,6 @@ const data = [
         "Complement": "FILHO DE JACOB COM BILHA SERVA DE RAQUEL"
     },
     {
-        "ID": 232,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NEBAJOTH",
         "Book": "GENESE",
@@ -2541,8 +2079,6 @@ const data = [
         "Complement": "PRIMOGENITO DE ISMAEL"
     },
     {
-        "ID": 233,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NEFTUIM",
         "Book": "GENESE",
@@ -2552,8 +2088,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 234,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NIMROD",
         "Book": "GENESE",
@@ -2563,8 +2097,6 @@ const data = [
         "Complement": "FILHO DE CUSH, NETO DE CAM E BISNETO DE NOÉ. (PODEROSO CASADOR DIANTE DO SENHOR)"
     },
     {
-        "ID": 235,
-        "Index": NaN,
         "Alphabetical_Order": "N",
         "Name": "NOÉ",
         "Book": "GENESE",
@@ -2574,8 +2106,6 @@ const data = [
         "Complement": "PRIMOGENITO DE LAMECH E NETO DE METUSALA, CONSTRUTOR DA ARCA"
     },
     {
-        "ID": 236,
-        "Index": NaN,
         "Alphabetical_Order": "O",
         "Name": "OAD",
         "Book": "GENESE",
@@ -2585,8 +2115,6 @@ const data = [
         "Complement": "FILHO DE SIMEÃO E NETO DE JACÓ"
     },
     {
-        "ID": 237,
-        "Index": NaN,
         "Alphabetical_Order": "O",
         "Name": "OBAL",
         "Book": "GENESE",
@@ -2596,8 +2124,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 238,
-        "Index": NaN,
         "Alphabetical_Order": "O",
         "Name": "OFIR",
         "Book": "GENESE",
@@ -2607,8 +2133,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 239,
-        "Index": NaN,
         "Alphabetical_Order": "O",
         "Name": "OMAR",
         "Book": "GENESE",
@@ -2618,8 +2142,6 @@ const data = [
         "Complement": "FILHO DE ELIFAZ"
     },
     {
-        "ID": 240,
-        "Index": NaN,
         "Alphabetical_Order": "O",
         "Name": "ONAM",
         "Book": "GENESE",
@@ -2629,8 +2151,6 @@ const data = [
         "Complement": "FILHO DE SOBAL E NETO DE SEIR"
     },
     {
-        "ID": 241,
-        "Index": NaN,
         "Alphabetical_Order": "O",
         "Name": "ONAN",
         "Book": "GENESE",
@@ -2640,8 +2160,6 @@ const data = [
         "Complement": "FILHO DE JUDÁ COM SUA"
     },
     {
-        "ID": 242,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PALU",
         "Book": "GENESE",
@@ -2651,8 +2169,6 @@ const data = [
         "Complement": "FILHO DE RUBEN E NETO DE JACÓ"
     },
     {
-        "ID": 243,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PATRUSIM",
         "Book": "GENESE",
@@ -2662,8 +2178,6 @@ const data = [
         "Complement": "FILHO DE MIZRAIM, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 244,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PELEG",
         "Book": "GENESE",
@@ -2673,8 +2187,6 @@ const data = [
         "Complement": "FILHO DE EBER, NETO D ARFACHAD, BISNETO DE SEM E TATARANETO DE NOÉ. (PORTANTO EM SEUS DIAS REPARTIAM A TERRA)"
     },
     {
-        "ID": 245,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PEREZ",
         "Book": "GENESE",
@@ -2684,8 +2196,6 @@ const data = [
         "Complement": "FILHO DE JUDÁ COM TAMAR SUA NORA"
     },
     {
-        "ID": 246,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PILDAS",
         "Book": "GENESE",
@@ -2695,8 +2205,6 @@ const data = [
         "Complement": "FILHO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 247,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PINON",
         "Book": "GENESE",
@@ -2706,8 +2214,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 248,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "POTIFAR",
         "Book": "GENESE",
@@ -2717,8 +2223,6 @@ const data = [
         "Complement": "EUNUCO DE FARAÓ"
     },
     {
-        "ID": 249,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "POTÍFERA",
         "Book": "GENESE",
@@ -2728,8 +2232,6 @@ const data = [
         "Complement": "PAI DE ASENATH E SARCERDOTE DE ON"
     },
     {
-        "ID": 250,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PUA",
         "Book": "GENESE",
@@ -2739,8 +2241,6 @@ const data = [
         "Complement": "FILHO DE ISSACAR E NETO DE JACÓ"
     },
     {
-        "ID": 251,
-        "Index": NaN,
         "Alphabetical_Order": "P",
         "Name": "PUT",
         "Book": "GENESE",
@@ -2750,8 +2250,6 @@ const data = [
         "Complement": "FILHO DE CAM E NETO DE NOÉ"
     },
     {
-        "ID": 252,
-        "Index": NaN,
         "Alphabetical_Order": "Q",
         "Name": "QUEDAR",
         "Book": "GENESE",
@@ -2761,8 +2259,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 253,
-        "Index": NaN,
         "Alphabetical_Order": "Q",
         "Name": "QUEDMA",
         "Book": "GENESE",
@@ -2772,8 +2268,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 254,
-        "Index": NaN,
         "Alphabetical_Order": "Q",
         "Name": "QUENAZ",
         "Book": "GENESE",
@@ -2783,8 +2277,6 @@ const data = [
         "Complement": "FILHO DE ELIFAZ"
     },
     {
-        "ID": 255,
-        "Index": NaN,
         "Alphabetical_Order": "Q",
         "Name": "QUENAZ",
         "Book": "GENESE",
@@ -2794,8 +2286,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 256,
-        "Index": NaN,
         "Alphabetical_Order": "Q",
         "Name": "QUETIM",
         "Book": "GENESE",
@@ -2805,8 +2295,6 @@ const data = [
         "Complement": "FILHO DE JAVAN, NETO DE JEFETHE E BISNETO DE NOÉ"
     },
     {
-        "ID": 257,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "RAAMA",
         "Book": "GENESE",
@@ -2816,8 +2304,6 @@ const data = [
         "Complement": "FILHO DE CUSH, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 258,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "RAQUEL",
         "Book": "GENESE",
@@ -2827,8 +2313,6 @@ const data = [
         "Complement": "RAQUEL FILHA DE LABÃO"
     },
     {
-        "ID": 259,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "REBECA",
         "Book": "GENESE",
@@ -2838,8 +2322,6 @@ const data = [
         "Complement": "FILHA DE BETUEL"
     },
     {
-        "ID": 260,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "REÚ",
         "Book": "GENESE",
@@ -2849,8 +2331,6 @@ const data = [
         "Complement": "FILHO DE PELEG, NETO DE EBER, BISNETO DE SEM E TATARANETO DE NOÉ"
     },
     {
-        "ID": 261,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "REUEL",
         "Book": "GENESE",
@@ -2860,8 +2340,6 @@ const data = [
         "Complement": "FILHO DE ESAÚ COM BASEMATH"
     },
     {
-        "ID": 262,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "REUMA",
         "Book": "GENESE",
@@ -2871,8 +2349,6 @@ const data = [
         "Complement": "FILHO DE NACOR COM SUA CONCUBINA REUMA"
     },
     {
-        "ID": 263,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "RIFATH",
         "Book": "GENESE",
@@ -2882,8 +2358,6 @@ const data = [
         "Complement": "FILHO DE GOMER, NETO DE JEFETH E BISNETO DE NOÉ"
     },
     {
-        "ID": 264,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "ROS",
         "Book": "GENESE",
@@ -2893,8 +2367,6 @@ const data = [
         "Complement": "FILHO DE BENJAMIM E NETO DE JACÓ"
     },
     {
-        "ID": 265,
-        "Index": NaN,
         "Alphabetical_Order": "R",
         "Name": "RUBEN",
         "Book": "GENESE",
@@ -2904,8 +2376,6 @@ const data = [
         "Complement": "PRIMOGENITO DE JACOB COM LEA"
     },
     {
-        "ID": 266,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SABTECA",
         "Book": "GENESE",
@@ -2915,8 +2385,6 @@ const data = [
         "Complement": "FILHO DE CUSH, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 267,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SAMLA",
         "Book": "GENESE",
@@ -2926,8 +2394,6 @@ const data = [
         "Complement": "DA TERRA DE MASRECA REI DE EDOM"
     },
     {
-        "ID": 268,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SARAI/SARA",
         "Book": "GENESE",
@@ -2937,8 +2403,6 @@ const data = [
         "Complement": "FILHA DE TERA E MUHER DE ABRÃO"
     },
     {
-        "ID": 269,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SARED",
         "Book": "GENESE",
@@ -2948,8 +2412,6 @@ const data = [
         "Complement": "FILHO DE ZEBULON E NETO DE JACÓ"
     },
     {
-        "ID": 270,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SAUL",
         "Book": "GENESE",
@@ -2959,8 +2421,6 @@ const data = [
         "Complement": "DA TERRA DE REOBOTH DO RI REI DE EDOM"
     },
     {
-        "ID": 271,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SAUL",
         "Book": "GENESE",
@@ -2970,8 +2430,6 @@ const data = [
         "Complement": "FILHO DE SIMEÃO COM UMA MULHER CANANEIA, E NETO DE JACÓ"
     },
     {
-        "ID": 272,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SCEBA",
         "Book": "GENESE",
@@ -2981,8 +2439,6 @@ const data = [
         "Complement": "FILHO DE RAAMA, NETO DE CUSH, BISNETO DE CAM E TATARANETO DE NOÉ"
     },
     {
-        "ID": 273,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SEBA",
         "Book": "GENESE",
@@ -2992,8 +2448,6 @@ const data = [
         "Complement": "FILHO DE CUSH, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 274,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SEBA",
         "Book": "GENESE",
@@ -3003,8 +2457,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 275,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SEBA",
         "Book": "GENESE",
@@ -3014,8 +2466,6 @@ const data = [
         "Complement": "FILHO DE JOCSAN E NETO DE ABRAÃO"
     },
     {
-        "ID": 276,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SEBTA",
         "Book": "GENESE",
@@ -3025,8 +2475,6 @@ const data = [
         "Complement": "FILHO DE CUSH, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 277,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SEIR",
         "Book": "GENESE",
@@ -3036,8 +2484,6 @@ const data = [
         "Complement": "MORADOR DE EDOM"
     },
     {
-        "ID": 278,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SELA",
         "Book": "GENESE",
@@ -3047,8 +2493,6 @@ const data = [
         "Complement": "FILHO DE ARFACHAD, NETO DE SEM E BISNETO DE NOÉ"
     },
     {
-        "ID": 279,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SELA",
         "Book": "GENESE",
@@ -3058,8 +2502,6 @@ const data = [
         "Complement": "FILHO DE JUDÁ COM SUA"
     },
     {
-        "ID": 280,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SEM",
         "Book": "GENESE",
@@ -3069,8 +2511,6 @@ const data = [
         "Complement": "PRIMOGENITO DE NOÉ"
     },
     {
-        "ID": 281,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SERA",
         "Book": "GENESE",
@@ -3080,8 +2520,6 @@ const data = [
         "Complement": "FILHA DE ASER E NETA DE JACÓ"
     },
     {
-        "ID": 282,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SERUG",
         "Book": "GENESE",
@@ -3091,8 +2529,6 @@ const data = [
         "Complement": "FILHO DE REÚ, NETO DE PELEG, BISNETO DE EBER E TATARANETO DE SEM"
     },
     {
-        "ID": 283,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SETH",
         "Book": "GENESE",
@@ -3102,8 +2538,6 @@ const data = [
         "Complement": "FILHO DE ADÃO E EVA"
     },
     {
-        "ID": 284,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SHAMA",
         "Book": "GENESE",
@@ -3113,8 +2547,6 @@ const data = [
         "Complement": "FILHO DE REUEL"
     },
     {
-        "ID": 285,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SHEFO",
         "Book": "GENESE",
@@ -3124,8 +2556,6 @@ const data = [
         "Complement": "FILHO DE SOBAL E NETO DE SEIR"
     },
     {
-        "ID": 286,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SHELEF",
         "Book": "GENESE",
@@ -3135,8 +2565,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 287,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SHEMEBER",
         "Book": "GENESE",
@@ -3146,8 +2574,6 @@ const data = [
         "Complement": "REI DE ZEBOIIM"
     },
     {
-        "ID": 288,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SHINAB",
         "Book": "GENESE",
@@ -3157,8 +2583,6 @@ const data = [
         "Complement": "REI DE ADMAH"
     },
     {
-        "ID": 289,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SHUNI",
         "Book": "GENESE",
@@ -3168,8 +2592,6 @@ const data = [
         "Complement": "FILHO DE GAD E NETO DE JACÓ"
     },
     {
-        "ID": 290,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SIDON",
         "Book": "GENESE",
@@ -3179,8 +2601,6 @@ const data = [
         "Complement": "PRIMOGENITO DE CANAÃ, NETO DE CAM E BISNETO DE NOÉ"
     },
     {
-        "ID": 291,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SILÉM",
         "Book": "GENESE",
@@ -3190,8 +2610,6 @@ const data = [
         "Complement": "FILHO DE NAFTALI E NETO DE JACÓ"
     },
     {
-        "ID": 292,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SIMEÃO",
         "Book": "GENESE",
@@ -3201,8 +2619,6 @@ const data = [
         "Complement": "FILHO DE JACOB COM LEA"
     },
     {
-        "ID": 293,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SINROM",
         "Book": "GENESE",
@@ -3212,8 +2628,6 @@ const data = [
         "Complement": "FILHO DE ISSACAR E NETO DE JACÓ"
     },
     {
-        "ID": 294,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SIQUÉM",
         "Book": "GENESE",
@@ -3223,8 +2637,6 @@ const data = [
         "Complement": "FILHO DE HEMOR HEVEU"
     },
     {
-        "ID": 295,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SOBAL",
         "Book": "GENESE",
@@ -3234,8 +2646,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 296,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SUA",
         "Book": "GENESE",
@@ -3245,8 +2655,6 @@ const data = [
         "Complement": "FILHO DE ABRAÃO COM KETURA"
     },
     {
-        "ID": 297,
-        "Index": NaN,
         "Alphabetical_Order": "S",
         "Name": "SUA",
         "Book": "GENESE",
@@ -3256,8 +2664,6 @@ const data = [
         "Complement": "MULHER DE JUDÁ"
     },
     {
-        "ID": 298,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TAASH",
         "Book": "GENESE",
@@ -3267,8 +2673,6 @@ const data = [
         "Complement": "FILHO DE NACOR COM SUA CONCUBINA REUMA"
     },
     {
-        "ID": 299,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TAMAR",
         "Book": "GENESE",
@@ -3278,8 +2682,6 @@ const data = [
         "Complement": "NÓRA DE JUDÁ"
     },
     {
-        "ID": 300,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TARSIS",
         "Book": "GENESE",
@@ -3289,8 +2691,6 @@ const data = [
         "Complement": "FILHO DE JAVAN, NETO DE JEFETHE E BISNETO DE NOÉ"
     },
     {
-        "ID": 301,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TEDAH",
         "Book": "GENESE",
@@ -3300,8 +2700,6 @@ const data = [
         "Complement": "FILHO DE NACOR COM SUA CONCUBINA REUMA"
     },
     {
-        "ID": 302,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TEMA",
         "Book": "GENESE",
@@ -3311,8 +2709,6 @@ const data = [
         "Complement": "FILHO DE ISMAEL"
     },
     {
-        "ID": 303,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TEMAM",
         "Book": "GENESE",
@@ -3322,8 +2718,6 @@ const data = [
         "Complement": "FILHO DE ELIFAZ"
     },
     {
-        "ID": 304,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TEMAN",
         "Book": "GENESE",
@@ -3333,8 +2727,6 @@ const data = [
         "Complement": "PRÍNCIPE DE EDOM"
     },
     {
-        "ID": 305,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TERA",
         "Book": "GENESE",
@@ -3344,8 +2736,6 @@ const data = [
         "Complement": "FILHO DE NACOR, NETO DE SERUB, BISNETO DE REÚ E TATARANETO DE PELEG"
     },
     {
-        "ID": 306,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TIBAL",
         "Book": "GENESE",
@@ -3355,8 +2745,6 @@ const data = [
         "Complement": "GOIIM"
     },
     {
-        "ID": 307,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TIMNA",
         "Book": "GENESE",
@@ -3366,8 +2754,6 @@ const data = [
         "Complement": "CONCUBINA DE ELIFAZ"
     },
     {
-        "ID": 308,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TIRAS",
         "Book": "GENESE",
@@ -3377,8 +2763,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 309,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TOGARMA",
         "Book": "GENESE",
@@ -3388,8 +2772,6 @@ const data = [
         "Complement": "FILHO DE GOMER, NETO DE JEFETH E BISNETO DE NOÉ"
     },
     {
-        "ID": 310,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TOLA",
         "Book": "GENESE",
@@ -3399,8 +2781,6 @@ const data = [
         "Complement": "FILHO DE ISSACAR E NETO DE JACÓ"
     },
     {
-        "ID": 311,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TUBAL",
         "Book": "GENESE",
@@ -3410,8 +2790,6 @@ const data = [
         "Complement": "FILHO DE JEFETH E NETO DE NOÉ"
     },
     {
-        "ID": 312,
-        "Index": NaN,
         "Alphabetical_Order": "T",
         "Name": "TUBALCAIM",
         "Book": "GENESE",
@@ -3421,8 +2799,6 @@ const data = [
         "Complement": "FILHO DE LAMECH COM ZILA; ESTE MESTRE DE TODA OBRA DE COBRE E DE FERRO"
     },
     {
-        "ID": 313,
-        "Index": NaN,
         "Alphabetical_Order": "U",
         "Name": "UL",
         "Book": "GENESE",
@@ -3432,8 +2808,6 @@ const data = [
         "Complement": "FILHO DE ARAM, NETO DE SEM E BISNETO DE NOÉ"
     },
     {
-        "ID": 314,
-        "Index": NaN,
         "Alphabetical_Order": "U",
         "Name": "UZ",
         "Book": "GENESE",
@@ -3443,8 +2817,6 @@ const data = [
         "Complement": "PRIMOGENITO DE NACOR E SOBRINHO DE ABRÃO"
     },
     {
-        "ID": 315,
-        "Index": NaN,
         "Alphabetical_Order": "U",
         "Name": "UZ",
         "Book": "GENESE",
@@ -3454,8 +2826,6 @@ const data = [
         "Complement": "FILHO DE DISAN E NETO DE SEIR"
     },
     {
-        "ID": 316,
-        "Index": NaN,
         "Alphabetical_Order": "U",
         "Name": "UZ",
         "Book": "GENESE",
@@ -3465,8 +2835,6 @@ const data = [
         "Complement": "FILHO DE ARAM, NETO DE SEM E BISNETO DE NOÉ"
     },
     {
-        "ID": 317,
-        "Index": NaN,
         "Alphabetical_Order": "U",
         "Name": "UZAL",
         "Book": "GENESE",
@@ -3476,8 +2844,6 @@ const data = [
         "Complement": "FILHO DE JOCTAN, NETO DE EBER, BISNETO DE ARFACHAD E TATARANETO DE SEM"
     },
     {
-        "ID": 318,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZAAVAN",
         "Book": "GENESE",
@@ -3487,8 +2853,6 @@ const data = [
         "Complement": "FILHO DE ESER NETO DE SEIR"
     },
     {
-        "ID": 319,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZEBULON",
         "Book": "GENESE",
@@ -3498,8 +2862,6 @@ const data = [
         "Complement": "FIHO DE JACOB COM LEA"
     },
     {
-        "ID": 320,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZEFO",
         "Book": "GENESE",
@@ -3509,8 +2871,6 @@ const data = [
         "Complement": "FILHO DE ELIFAZ"
     },
     {
-        "ID": 321,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZERA",
         "Book": "GENESE",
@@ -3520,8 +2880,6 @@ const data = [
         "Complement": "FILHO DE REUEL"
     },
     {
-        "ID": 322,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZERA",
         "Book": "GENESE",
@@ -3531,8 +2889,6 @@ const data = [
         "Complement": "FILHO DE JUDÁ COM TAMAR SUA NORA"
     },
     {
-        "ID": 323,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZERÁ",
         "Book": "GENESE",
@@ -3542,8 +2898,6 @@ const data = [
         "Complement": "MÃE DO REI JOBABE"
     },
     {
-        "ID": 324,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZIBEON",
         "Book": "GENESE",
@@ -3553,8 +2907,6 @@ const data = [
         "Complement": "FILHO DE SEIR, PAI DE AOLIBAMA MULHER DE ESAÚ"
     },
     {
-        "ID": 325,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZIBEON",
         "Book": "GENESE",
@@ -3564,8 +2916,6 @@ const data = [
         "Complement": "PRINCIPE, FILHO DE SEIR MORADOR DE EDOM"
     },
     {
-        "ID": 326,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZIFION",
         "Book": "GENESE",
@@ -3575,8 +2925,6 @@ const data = [
         "Complement": "FILHO DE GAD E NET DE JACÓ"
     },
     {
-        "ID": 327,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZILA",
         "Book": "GENESE",
@@ -3586,8 +2934,6 @@ const data = [
         "Complement": "MULHER DE LAMECH"
     },
     {
-        "ID": 328,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZILPA",
         "Book": "GENESE",
@@ -3597,8 +2943,6 @@ const data = [
         "Complement": "SERVA DE LEA"
     },
     {
-        "ID": 329,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZIMRAN",
         "Book": "GENESE",
@@ -3608,8 +2952,6 @@ const data = [
         "Complement": "FILHO DE ABRAÃO COM KETURA"
     },
     {
-        "ID": 330,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZOAR",
         "Book": "GENESE",
@@ -3619,8 +2961,6 @@ const data = [
         "Complement": "O HETEU PAI DE EFRON"
     },
     {
-        "ID": 331,
-        "Index": NaN,
         "Alphabetical_Order": "Z",
         "Name": "ZOAR",
         "Book": "GENESE",
