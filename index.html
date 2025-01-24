@@ -45,6 +45,14 @@
         <script src="data.js"></script>
         <script>
             function filterNames(letter) {
+                // Highlight the active button
+                document.querySelectorAll('.filter-buttons button').forEach(button => {
+                    button.classList.remove('active');
+                });
+                const activeButton = document.getElementById(`filter-${letter}`) || document.getElementById('filter-all');
+                activeButton.classList.add('active');
+
+                // Filter and display names
                 const filteredData = letter === 'all' ? data : data.filter(item => item.Alphabetical_Order === letter);
                 displayNames(filteredData);
             }
